@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi, I´m Braulio 👋
+##  About Me in code
+```js
+const zamahell = {
+  pronouns: "Lucas" || "Braulio",
+  code: [JavaScript, Python, HTML, CSS],
+  tools: [Node, Angular, React, Notion],
+}
+```
 <!--
 **Zamahell/Zamahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
