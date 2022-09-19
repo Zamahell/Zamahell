@@ -6,10 +6,8 @@ const zamahell = {
   code: [JavaScript, Python, HTML, CSS],
   tools: [Node, Angular, React, Notion],
 }
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zamahell&show_icons=true&locale=en&layout=compact" /></p>
-
 ```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zamahell&show_icons=true&locale=en&layout=compact" /></p>
 <!--
 **Zamahell/Zamahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
