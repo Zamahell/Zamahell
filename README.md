@@ -9,7 +9,7 @@ const zamahell = {
 ```
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zamahell&show_icons=true&locale=en&layout=compact" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiZamahellanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiZamahellanuraghazra&show_icons=true&theme=radical)
 <!--
 **Zamahell/Zamahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
