@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-    <h1 align="center">Hi 😁, I´m Zamahell</h1>
+    <h1 align="center">Hi 😁, I´m Braulio</h1>
     <h3 align="center">I´m a student of computer engineering 💻, I´m from Chile 🌶, I like to study new technologies in the computer world, read books in my free time and drink a lot of coffee ☕.</h3>
 </div>
 <hr>
